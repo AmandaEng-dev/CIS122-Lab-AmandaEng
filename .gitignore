@@ -1,0 +1,19 @@
+
+NorthWindLAB/.vs/NorthWindLAB/xs/project-cache/NorthWindLAB-Debug.json
+# Ignore everything that isn't useful in our project folder
+NorthWindLAB/bin/
+NorthWindLAB/obj/
+NorthWindLAB/Properties/
+.vs/
+
+# Ignore config files
+*.config
+
+# Ignore suo files
+*.suo
+
+# Ignore csproj files
+*.csproj
+
+#Ignore solution files
+*.sln
