@@ -17,3 +17,8 @@ NorthWindLAB/Properties/
 
 #Ignore solution files
 *.sln
+NorthWindLAB/.DS_Store
+.DS_Store
+*.icloud
+*.json
+*.dll
